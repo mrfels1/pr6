@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="count"> Расчитать</string>
+    <string name="main_activity"> Переопределить</string>
+</resources>
